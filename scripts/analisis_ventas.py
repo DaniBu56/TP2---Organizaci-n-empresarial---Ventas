@@ -1,3 +1,5 @@
+#SCRUM-6: Script funcional de análisis de ventas
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
