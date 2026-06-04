@@ -1,4 +1,4 @@
-#TP2---Organizaci-n-empresarial---VentasSCRUM-7: Documentación y revisión final
+#TP2---Organizaci-n-empresarial---Ventas SCRUM-7: Documentación y revisión final
 
 
 
